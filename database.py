@@ -24,7 +24,3 @@ class Db:
     def getSolution(self, eq):
         result = self.cursorObj.execute('SELECT solution FROM history WHERE equation = ?', (eq,)).fetchall()
         return result[0][0]
-
-
-db = Db()
-print(db.getEquationList())
