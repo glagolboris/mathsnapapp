@@ -6,7 +6,8 @@ def resh(eq):
     if solve(sympy_eq):
         result = 'Результат: '
         for el in solve(sympy_eq):
-            result += f'{str(el)}; '
+            if 'I' not in str(el) and 'i' not in str(el):
+                result += f'{str(el)}; '
         return result
 
     else:
