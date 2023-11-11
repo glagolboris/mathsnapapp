@@ -80,4 +80,4 @@
 ---
 
 ## Установка на MacOs
-Для MacOs существует скомпилированная версия (.app). Для того, чтобы установить её, нажмите на [данную ссылку](https://drive.google.com/uc?export=download&id=1NktlAoCE-T1kWBuTh-kz5yY9AxBwM9G0), а затем разархивируете файл `main.app.zip`.
+Для MacOs существует скомпилированная версия (.app). Для того, чтобы установить её, нажмите на [данную ссылку](https://drive.google.com/uc?export=download&id=1NktlAoCE-T1kWBuTh-kz5yY9AxBwM9G0), а затем разархивируйте файл `main.app.zip`.
